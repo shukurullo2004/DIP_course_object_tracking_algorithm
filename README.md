@@ -3,6 +3,7 @@
 This repository contains the implementation of various object tracking algorithms as part of the DIP (Digital Image Processing) course project. The main focus is on using OpenCV to implement and compare different tracking algorithms, including CSRT.
 
 Experimented Video and PPTX can be found here - https://drive.google.com/drive/folders/10o4gs3xFm7XHcAKdT3nS-ywD2uGspcPE?usp=sharing
+NOTE: PPTX has video explanation.
 ---
 
 ## Author Information
